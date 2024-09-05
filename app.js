@@ -80,12 +80,7 @@ const makePostRequest = async () => {
   try {
     const response = await axios.post(apiUrl, requestData);
 
-    // console.log('Response:', response.data);
-   console.log(response);
-    // response.data.resultados.itens.forEach((item, index) => {
-    //   console.log(`Item ${index}:`, item);
-    //   return res.status(200).send({item});
-    // });
+     console.log('Response:', response.data);
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message);
   }
