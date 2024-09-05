@@ -30,7 +30,7 @@ const requestData = {
             "token": `${authToken}`,
             "pagina": "1",
             "itensporpagina": "100",
-            "cd_item": "100017",
+            "cd_item": "1211779",
             "ds_item": "",
             "ds_ggrupo": "",
             "ds_grupo": "",
@@ -71,7 +71,7 @@ makePostRequest();
                 "token": `${authToken}`,
                 "pagina": "1",
                 "itensporpagina": "100",
-                "cd_item": ""
+                "cd_item": "1211779"
             }  
     };
     
