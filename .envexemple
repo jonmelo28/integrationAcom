@@ -1,0 +1,3 @@
+URL='http://drop.laquila.com.br:8189/api_acom/acom/TTerceiros/Integracao/2DB9BD85-0043-46EE-AE56-66B2E780D83C/'
+CNPJ_EMPRESA="cnpj_empresa"
+AUTH_TOKEN='token_empresa'
